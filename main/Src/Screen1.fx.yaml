@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Label1 As label:
         Text: ="Text's added"
-        X: =40
-        Y: =40
+        X: =420
+        Y: =215
         ZIndex: =1
 
